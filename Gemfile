@@ -12,6 +12,6 @@ gem 'sinatra'
     
 group :test do
       gem 'rspec'
-      gem 'capybara'
+      # gem 'capybara'
       gem 'rack-test'
     end
